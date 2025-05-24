@@ -87,7 +87,7 @@ Contributions are welcome. To contribute:
 - Open a Pull Request
 
 Contributors
-- GitHub: @your-username – Initial work
+- GitHub: @Mohammed-Hanan-Othman – Initial work
 
 Feel free to open issues or suggestions via GitHub Issues.
 
